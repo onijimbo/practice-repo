@@ -33,7 +33,7 @@ p{
 
 .riley{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    margin: 0 auto;
+    margin: 0 0;
     color: white;
     width: fit-content;
     background: #4aaaa5;
@@ -56,7 +56,7 @@ p{
 
 .wrapper2{
     position: relative;
-    margin:  150px auto 100px  ;
+    margin:  150px auto 60px  ;
     width: 960px;
     box-sizing: border-box;
     background-color: white;
@@ -68,29 +68,9 @@ p{
 }
 
 .img1{
-    float: left;
-    width: 25%;
+    margin: 0 0 75px 135px;
+    width: 50%;
     height: auto;
-}
-
-.img2{
-    float: right;
-    width: 25%;
-    height: auto;
-}
-
-.img3{
-    float: right;
-    width: 25%;
-    height: auto;
-    float: bottom;
-}
-
-.img4{
-    float: left;
-    width: 25%;
-    height: auto;
-    float: bottom;
 }
 
 .wrapper img{
